@@ -9,8 +9,8 @@
             web_icon="account,static/description/icon.png"
             sequence="40"/>
 
-        <menuitem id="menu_finance_receivables" name="Customers" parent="menu_finance" sequence="2"/>
-        <menuitem id="menu_finance_payables" name="Vendors" parent="menu_finance" sequence="3"/>
+        <menuitem id="menu_finance_receivables" name="Sales" parent="menu_finance" sequence="2"/>
+        <menuitem id="menu_finance_payables" name="Purchases" parent="menu_finance" sequence="3"/>
         <menuitem id="menu_finance_entries" name="Accounting" parent="menu_finance" sequence="4" groups="account.group_account_user"/>
             <!-- Adviser sub-menus -->
             <menuitem id="menu_finance_entries_accounting_entries" name="Accounting Entries" parent="account.menu_finance_entries"/>
