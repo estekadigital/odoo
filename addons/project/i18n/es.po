@@ -2331,7 +2331,7 @@ msgstr "Eliminar imagen en portada"
 #. module: project
 #: model:ir.ui.menu,name:project.menu_project_report
 msgid "Reporting"
-msgstr "Informando"
+msgstr "Informes"
 
 #. module: project
 #. openerp-web
