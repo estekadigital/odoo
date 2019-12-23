@@ -2045,7 +2045,7 @@ msgstr "Cliente relacionado"
 #. module: crm
 #: model:ir.ui.menu,name:crm.crm_menu_report
 msgid "Reporting"
-msgstr "Informando"
+msgstr "Informes"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_stage__requirements
