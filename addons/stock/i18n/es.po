@@ -1687,7 +1687,7 @@ msgstr "Ruta de entrega"
 #. module: stock
 #: model:ir.actions.report,name:stock.action_report_delivery
 msgid "Delivery Slip"
-msgstr "Vale de entrega"
+msgstr "Albarán"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_procurement_group__move_type
